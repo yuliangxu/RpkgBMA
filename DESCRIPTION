@@ -1,0 +1,12 @@
+Package: RpkgBMA
+Type: Package
+Title: R package for Bayesian Mediation Analysis
+Version: 1.0
+Date: 2021-09-24
+Author: Yuliang Xu
+Maintainer: Yuliang Xu <yuliangx@umich.edu>
+Description: This package uses Soft-thresholding Gaussian Process priors to perform mediation analysis, especially designed for brain imaging data
+License: MIT + file LICENSE
+Imports: Rcpp (>= 1.0.6)
+LinkingTo: Rcpp, RcppArmadillo, RcppProgress
+RoxygenNote: 7.1.1
